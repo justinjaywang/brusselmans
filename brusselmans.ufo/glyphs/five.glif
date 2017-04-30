@@ -6,19 +6,19 @@
     <contour>
       <point x="323" y="102" type="line"/>
       <point x="323" y="306" type="line"/>
-      <point x="119" y="306" type="line"/>
-      <point x="17" y="408" type="line"/>
+      <point x="102" y="306" type="line"/>
+      <point x="17" y="391" type="line"/>
       <point x="17" y="714" type="line"/>
       <point x="425" y="714" type="line"/>
       <point x="425" y="612" type="line"/>
       <point x="119" y="612" type="line"/>
       <point x="119" y="408" type="line"/>
-      <point x="323" y="408" type="line"/>
-      <point x="425" y="306" type="line"/>
-      <point x="425" y="102" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="119" y="0" type="line"/>
-      <point x="17" y="102" type="line"/>
+      <point x="340" y="408" type="line"/>
+      <point x="425" y="323" type="line"/>
+      <point x="425" y="85" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="17" y="85" type="line"/>
       <point x="17" y="153" type="line"/>
       <point x="119" y="153" type="line"/>
       <point x="119" y="102" type="line"/>

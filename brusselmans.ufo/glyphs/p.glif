@@ -11,14 +11,14 @@
     </contour>
     <contour>
       <point x="323" y="408" type="line"/>
-      <point x="119" y="408" type="line"/>
-      <point x="221" y="510" type="line"/>
-      <point x="323" y="510" type="line"/>
-      <point x="425" y="408" type="line"/>
-      <point x="425" y="102" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="119" y="102" type="line"/>
+      <point x="102" y="408" type="line"/>
+      <point x="204" y="510" type="line"/>
+      <point x="340" y="510" type="line"/>
+      <point x="425" y="425" type="line"/>
+      <point x="425" y="85" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="102" y="102" type="line"/>
       <point x="323" y="102" type="line"/>
     </contour>
   </outline>
