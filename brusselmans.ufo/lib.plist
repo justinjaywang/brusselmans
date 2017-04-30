@@ -452,6 +452,8 @@
 		<string>degree</string>
 		<string>paragraph</string>
 		<string>space</string>
+		<string>endash</string>
+		<string>emdash</string>
 	</array>
 </dict>
 </plist>
