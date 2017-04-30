@@ -11,11 +11,8 @@
     </contour>
     <contour>
       <point x="119" y="102" type="line"/>
-      <point x="119" y="-102" type="line"/>
-      <point x="17" y="-204" type="line"/>
-      <point x="-85" y="-204" type="line"/>
-      <point x="-85" y="-102" type="line"/>
-      <point x="17" y="-102" type="line"/>
+      <point x="119" y="-153" type="line"/>
+      <point x="17" y="-153" type="line"/>
       <point x="17" y="102" type="line"/>
     </contour>
   </outline>
